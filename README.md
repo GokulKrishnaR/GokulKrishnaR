@@ -56,9 +56,13 @@ AI-powered web app that generates ATS-friendly resumes, cover letters, and portf
 
 ## 📚 Education
 
-🎓 **CUSAT**  
-B.Tech Computer Science (Data Science)  
+🎓 **Cochin University of Science and Technology**  
+MSc Computer Science (Data Science)  
 CGPA: 9.33
+
+🎓 **Sacred Heart College, Thevara**  
+BSc Computer Applications (Triple Main)  
+CGPA: 8.82
 
 ---
 
