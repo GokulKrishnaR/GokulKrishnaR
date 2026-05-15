@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gokul Krishna R
 
-💻 Full Stack & AI Developer passionate about building intelligent web applications and solving real-world problems through technology.
+I am a recent Bachelor of Science graduate in Computer Applications, currently pursuing my Master's in Computer Science at Cochin University of Science and Technology (CUSAT) who like programming and innovating new technologies.  I am committed to leveraging data driven insights to solve complex problems and support informed decision making. With a strong foundation in programming and analytics, I am eager to contribute effectively to professional data science initiatives and continue advancing my expertise in this dynamic field.
 
 ---
 
