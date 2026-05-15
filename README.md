@@ -35,12 +35,12 @@ I am a recent Bachelor of Science graduate in Computer Applications, currently p
 ## 📌 Featured Projects
 
 ### 🚦 Auto Traffic (Traffic Sign Recognizer)
-GitHub Repo: https://github.com/GokulKrishnaR/autotraffic-traffic-sign-recognizer
-Traffic sign recognition system using TensorFlow and CNN with image preprocessing and Django deployment.
+-GitHub Repo: https://github.com/GokulKrishnaR/autotraffic-traffic-sign-recognizer
+-Traffic sign recognition system using TensorFlow and CNN with image preprocessing and Django deployment.
 
 ### 📄 AI Resume and Portfolio Builder
-GitHub Repo: https://github.com/GokulKrishnaR/ai-resume-portfolio-builder
-AI-powered web app that generates ATS-friendly resumes, cover letters, and portfolios using LLMs and Hugging Face models.
+-GitHub Repo: https://github.com/GokulKrishnaR/ai-resume-portfolio-builder
+-AI-powered web app that generates ATS-friendly resumes, cover letters, and portfolios using LLMs and Hugging Face models.
 
 ---
 
