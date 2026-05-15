@@ -62,14 +62,6 @@ CGPA: 9.33
 
 ---
 
-## 📊 GitHub Stats
-
-![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=GokulKrishnaR&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulKrishnaR&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 - 📧 gokulkrishnar04@gmail.com
